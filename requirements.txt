@@ -4,4 +4,3 @@ pandas
 rake-nltk
 selenium
 webdriver-manager
-requests
